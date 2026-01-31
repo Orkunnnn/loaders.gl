@@ -2,7 +2,7 @@
 test/data/test.png
 tmp
 !modules/zip/test/data/**/*.zip
-
+modules/dxf/test/data/auto_2018.dxf
 # dists
 dist/*
 **/dist/*

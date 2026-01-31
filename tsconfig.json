@@ -101,6 +101,15 @@
       "@loaders.gl/csv/test": [
         "modules/csv/test"
       ],
+      "@loaders.gl/dxf": [
+        "modules/dxf/src"
+      ],
+      "@loaders.gl/dxf/*": [
+        "modules/dxf/src/*"
+      ],
+      "@loaders.gl/dxf/test": [
+        "modules/dxf/test"
+      ],
       "@loaders.gl/draco": [
         "modules/draco/src"
       ],

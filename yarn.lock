@@ -5679,6 +5679,17 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@loaders.gl/dxf@workspace:modules/dxf":
+  version: 0.0.0-use.local
+  resolution: "@loaders.gl/dxf@workspace:modules/dxf"
+  dependencies:
+    "@loaders.gl/loader-utils": "npm:4.4.0-alpha.12"
+    "@loaders.gl/schema": "npm:4.4.0-alpha.12"
+  peerDependencies:
+    "@loaders.gl/core": 4.4.0-alpha.1
+  languageName: unknown
+  linkType: soft
+
 "@loaders.gl/excel@workspace:modules/excel":
   version: 0.0.0-use.local
   resolution: "@loaders.gl/excel@workspace:modules/excel"

@@ -46,6 +46,7 @@ import '@loaders.gl/tiles/test';
 // TODO restore once we have upgraded to ES modules
 import '@loaders.gl/flatgeobuf/test';
 import '@loaders.gl/geopackage/test';
+import '@loaders.gl/dxf/test';
 import '@loaders.gl/gis/test';
 import '@loaders.gl/kml/test';
 import '@loaders.gl/shapefile/test';

@@ -14,6 +14,7 @@ function makeAliases() {
     '@loaders.gl/crypto/test': resolve('./modules/crypto/test'),
     '@loaders.gl/core/test': resolve('./modules/core/test'),
     '@loaders.gl/csv/test': resolve('./modules/csv/test'),
+    '@loaders.gl/dxf/test': resolve('./modules/dxf/test'),
     '@loaders.gl/draco/test': resolve('./modules/draco/test'),
     '@loaders.gl/excel/test': resolve('./modules/excel/test'),
     '@loaders.gl/flatgeobuf/test': resolve('./modules/flatgeobuf/test'),
